@@ -50,5 +50,5 @@ then use pip to install the required packages listed below:
 
 `seaborn`   
 `pandas`   
-`numpy'  
+`numpy`   
 `matplotlib`  
