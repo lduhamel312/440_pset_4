@@ -19,9 +19,7 @@ PBMCs were sorted by immune cell type according to surface markers using
 dynabeads and flow cytometry. These subpopulations and a sample of the classical
 monocytes were subjected to bulk RNA-seq analysis for each patient. The raw
 Illuina data and patient demographics are stored in NCBI with the accession
-number [PRJNA627214.](https://www.ncbi.nlm.nih.gov/Traces/study/?page=6&acc=
-PRJNA627214&o=cell_type_surface_markers_sam_s%3Aa%253Bacc_s%253Bacc_s%253Bacc_
-s%3Bacc_s%3Aa&s=SRR11582313,SRR11582477)
+number [PRJNA627214.](https://www.ncbi.nlm.nih.gov/Traces/study/?page=6&acc=PRJNA627214&o=cell_type_surface_markers_sam_s%3Aa%253Bacc_s%253Bacc_s%253Bacc_s%3Bacc_s%3Aa&s=SRR11582313,SRR11582477)
 
 Citation:
 Panwar, B., Schmiedel, B. J., Liang, S., White, B., Rodriquez, E., Kalunian,
