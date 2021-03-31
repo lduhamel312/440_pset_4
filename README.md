@@ -3,6 +3,8 @@ This repo contains the code to reproduce all the analyses for the 20.440 Project
 *"Investigating differential expression of long non-coding RNAs in Systemic Lupus
 Erythematosus"*  
 
+Authors: Lauren Duhamel and Owen Porth
+
 The purpose of this project is to generate an analysis of the long non-coding
 RNAs present in the Panwar et. al. dataset.  
 
@@ -45,3 +47,8 @@ data processing code in the Code Folder.
 # Installation  
 To re-make the figures you wull need a Python 3 environment. Install pip and
 then use pip to install the required packages listed below:
+
+'seaborn'
+'pandas'
+'numpy'
+'matplotlib'
