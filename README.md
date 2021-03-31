@@ -1,4 +1,4 @@
-#long non-coding RNA expression in Systemic Lupus Erythematosus  
+# long non-coding RNA expression in Systemic Lupus Erythematosus  
 This repo contains the code to reproduce all the analyses for the 20.440 Project
 "Investigating differential expression of long non-coding RNAs in Systemic Lupus
 Erythematosus"  
@@ -6,7 +6,7 @@ Erythematosus"
 The purpose of this project is to generate an analysis of the long non-coding
 RNAs present in the Panwar et. al. dataset.  
 
-#Data  
+# Data  
 The raw data contained in this repo is a count matrix from the bulk RNA seq
 experiments run by Panwar et. al.  
 
