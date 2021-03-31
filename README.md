@@ -48,7 +48,7 @@ data processing code in the Code Folder.
 To re-make the figures you wull need a Python 3 environment. Install pip and
 then use pip to install the required packages listed below:
 
-'seaborn'
-'pandas'
-'numpy'
-'matplotlib'
+`seaborn`   
+`pandas`   
+`numpy'  
+`matplotlib`  
